@@ -1,0 +1,26 @@
+{
+    "id": "1BA9C266",
+    "path": "~/GitHub/ProgrammingAssignment2/cachematrix.R",
+    "project_path": "cachematrix.R",
+    "type": "r_source",
+    "hash": "2553171115",
+    "contents": "",
+    "dirty": false,
+    "created": 1640221245494.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "5,19",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1640223704,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1640223704669,
+    "read_only": false,
+    "read_only_alternatives": []
+}
